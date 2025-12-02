@@ -5,19 +5,11 @@
 
 ### 🌟 About Me  
 - 🔭 I’m currently working on **RoomFinder, Sestro & e-Source**
-- 🌱 I’m learning **Node.js, PHP, MySQL, and Advanced Frontend**
+- 🌱 Learning **Node.js, PHP, MySQL, and Advanced Frontend**
 - 💬 Ask me about **HTML, CSS, JS, PHP, MySQL**
 - 📫 Reach me at **sandpipe98@gmail.com**
-- ⚡ Fun fact: I love building real-world web apps as a student developer!
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.topcoder.com/members/44600" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40"/>
-  </a>
-</p>
+- 🤝 Fascinated to visit **hackathons and tech events**
+- 🌐 Portfolio: **https://shresthasandip.infinityfreeapp.com**
 
 ---
 
@@ -51,27 +43,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandip-sanshre&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sandip-sanshre&theme=tokyonight" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip-sanshre&layout=compact&theme=tokyonight" alt="top languages"/>
-</p>
-
----
-
-### 🚀 Fun Showcase
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
-</p>
-
----
