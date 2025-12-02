@@ -1,15 +1,24 @@
 <h1 align="center">Hi 👋, I'm Sandip Shrestha</h1>
-<h3 align="center">A passionate Frontend Developer & Web Enthusiast from Nepal</h3>
+<h3 align="center">Frontend Developer • Web Designer • Student Innovator</h3>
+
+---
+
+### 🚀 Who Am I?
+I'm Sandip, a student developer from Nepal who loves building real-world digital products with **modern UI** and **practical features**.  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+</p>
 
 ---
 
 ### 🌟 About Me  
-- 🔭 I’m currently working on **RoomFinder, Sestro & e-Source**
-- 🌱 Learning **Node.js, PHP, MySQL, and Advanced Frontend**
+- 🔭 Working on **RoomFinder**, **Sestro**, and **e-Source**
+- 🎯 Learning **Node.js, PHP, MySQL, and advanced frontend frameworks**
 - 💬 Ask me about **HTML, CSS, JS, PHP, MySQL**
-- 📫 Reach me at **sandpipe98@gmail.com**
-- 🤝 Fascinated to visit **hackathons and tech events**
-- 🌐 Portfolio: **https://shresthasandip.infinityfreeapp.com**
+- 📫 Reach me: **sandpipe98@gmail.com**
+- 🤝 Fascinated to attend **hackathons and tech events**
+- 🌐 Portfolio: [shresthasandip.infinityfreeapp.com](https://shresthasandip.infinityfreeapp.com)
 
 ---
 
@@ -41,5 +50,26 @@
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a>
+</p>
+
+---
+
+### 🎨 Animated SVG Waves
+<p align="center">
+  <img src="https://svgshare.com/i/xtx.svg" alt="animated wave" width="100%" />
+</p>
+
+---
+
+### 🎯 My Vision  
+To grow as a **full-stack developer** who builds meaningful solutions — starting in Nepal and expanding globally.
+
+---
+
+### 🔗 Portfolio Highlight
+<p align="center">
+  <a href="https://shresthasandip.infinityfreeapp.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-View_My_Work-blue?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
