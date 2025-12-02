@@ -14,6 +14,7 @@ My goal is to become a versatile full-stack developer and create **impactful dig
 - 🔭 **Current Projects:** RoomFinder (property/room listing app), Sestro, and e-Source  
 - 🌱 **Learning & Growth:** Python, React, Express.js, Node.js, and Retrieval-Augmented Generation (RAG)  
 - 💡 **Interests:** Hackathons, innovative tech challenges, and coding competitions  
+- 🕒 **Time Zone:** <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="25" alt="Clock GIF"/> Nepal Time (NPT, UTC+5:45) — generally available for collaboration  
 - 🎯 **Vision:** Build scalable, meaningful solutions starting in Nepal and expanding globally  
 
 ---
@@ -22,39 +23,34 @@ My goal is to become a versatile full-stack developer and create **impactful dig
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a><br>
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a><br>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a><br>
+  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a><br>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a><br>
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a><br>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a><br>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a><br>
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
 </p>
 
 ---
-- 🕒 **Time Zone & Availability:**  
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="25" alt="Clock GIF"/>  
-  **Nepal Time (NPT, UTC+5:45)** — I’m generally available for coding collaborations, project discussions, and hackathons.  
-  Planning meetings or pairing sessions? Keep my time zone in mind for smooth coordination!
---------------
 
 ### 💬 Connect & Portfolio
 <p align="center">
@@ -64,6 +60,17 @@ My goal is to become a versatile full-stack developer and create **impactful dig
   <a href="https://shresthasandip.infinityfreeapp.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Portfolio-View_My_Work-007ACC?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio Badge"/> 
   </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandip-shrestha&show_icons=true&theme=dark&count_private=true" alt="Sandip's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip-shrestha&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
