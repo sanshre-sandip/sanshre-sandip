@@ -50,6 +50,11 @@ My goal is to become a versatile full-stack developer and create **impactful dig
 </p>
 
 ---
+- 🕒 **Time Zone & Availability:**  
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="25" alt="Clock GIF"/>  
+  **Nepal Time (NPT, UTC+5:45)** — I’m generally available for coding collaborations, project discussions, and hackathons.  
+  Planning meetings or pairing sessions? Keep my time zone in mind for smooth coordination!
+--------------
 
 ### 💬 Connect & Portfolio
 <p align="center">
