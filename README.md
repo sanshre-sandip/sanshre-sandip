@@ -66,12 +66,14 @@ My goal is to become a versatile full-stack developer and create **impactful dig
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandip-shrestha&show_icons=true&theme=dark&count_private=true" alt="Sandip's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanshre-sandip&show_icons=true&theme=dark" alt="Sandip's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip-shrestha&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanshre-sandip&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+
 
 ---
 
