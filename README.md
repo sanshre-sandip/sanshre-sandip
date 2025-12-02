@@ -6,9 +6,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="animated waves" width="100%" />
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanshre-sandip&label=Profile%20views&color=0e75b6&style=flat" alt="sanshre-sandip" /> </p>
 
@@ -78,4 +75,8 @@ My goal is to become a versatile full-stack developer and create **impactful dig
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="animated waves" width="100%" />
+</p>
+--------
 
