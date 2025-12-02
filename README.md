@@ -57,6 +57,14 @@ I'm Sandip, a student developer from Nepal who loves building real-world digital
 
 ### 🎨 Animated SVG Waves
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Wave.svg" alt="wave" width="100%" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="animated waves" width="100%" />
+</p>
+
+
+<p align="center">
   <img src="https://svgshare.com/i/xtx.svg" alt="animated wave" width="100%" />
 </p>
 
