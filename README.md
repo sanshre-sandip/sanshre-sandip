@@ -1,83 +1,57 @@
+<div align="center">
+  <h1>
+    Hello! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
+    <br>I'm <strong>Sandip Shrestha</strong>
+  </h1>
 
-<h1 align="center">👨‍💻 Sandip Shrestha</h1>
-<h3 align="center">Versatile Web Developer | Full-Stack Aspirant from Nepal</h3>
+  <p><i>Web Developer | Future AI/ML Engineer | Student @ NSS</i></p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF - Man at computer with code surrounding him"/>
-</p>
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanshre-sandip&label=Profile%20views&color=0e75b6&style=flat" alt="sanshre-sandip" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanshre-sandip" alt="sanshre-sandip" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-----------
-
-### ✨ About Me
-I'm Sandip, a passionate student developer focused on building **modern, responsive, and real-world web applications**.  
-My goal is to become a versatile full-stack developer and create **impactful digital solutions**.
-
-- 🔭 **Current Projects:** RoomFinder (property/room listing app), Sestro, and e-Source  
-- 🌱 **Learning & Growth:** Python, React, Express.js, Node.js, and Retrieval-Augmented Generation (RAG)  
-- 💡 **Interests:** Hackathons, innovative tech challenges, and coding competitions  
-- 🎯 **Vision:** Build scalable, meaningful solutions starting in Nepal and expanding globally  
-
----
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a><br>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a><br>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a><br>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a><br>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a><br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a><br>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a><br>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <a href="#">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" />
   </a>
-</p>
 
----
-- 🕒 **Time Zone & Availability:**  
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="25" alt="Clock GIF"/>  
-  **Nepal Time (NPT, UTC+5:45)** — I’m generally available for coding collaborations, project discussions, and hackathons.  
-  Planning meetings or pairing sessions? Keep my time zone in mind for smooth coordination!
---------------
-
-### 💬 Connect & Portfolio
-<p align="center">
-  <a href="mailto:sandpipe98@gmail.com"> 
-    <img src="https://img.shields.io/badge/Email-sandpipe98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/> 
-  </a> &nbsp; 
-  <a href="https://shresthasandip.infinityfreeapp.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-007ACC?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio Badge"/> 
+  <a href="#">
+    <img 
+      src="https://img.shields.io/badge/Website-Sanshre-24283B?style=for-the-badge&logo=google-chrome&logoColor=white" 
+      alt="Website" />
   </a>
-</p>
 
----
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="animated waves" width="100%" />
-</p>
---------
+  <a href="#">
+    <img 
+      src="https://img.shields.io/badge/GitHub-GitHub-24283B?style=for-the-badge&logo=github&logoColor=white" 
+      alt="GitHub" />
+  </a>
+</div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanshre-sandip&style=for-the-badge&color=24283B" alt="Profile Views" /> </p>
+<h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px" height="20px"> About Me </h2>
+const sandip = {
+  name: 'Sandip Shrestha',<br>
+  current: 'Building Web Apps & Preparing for AI/ML',<br>
+  interest: [<br>
+    'Web Development',<br>
+    'Backend Systems',<br>
+    'Open Source',<br>
+    'AI & Machine Learning'<br>
+  ],<br>
+  tech: {<br>
+    Frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind CSS'],<br>
+    Backend:  ['PHP', 'MySQL', 'Node.js (Basics)'],<br>
+    Tools:    ['Git', 'GitHub', 'Linux'],<br>
+  },<br>
+  education: 'Grade 12 Physical Science @ National School of Sciences (NSS)',<br>
+  funFact: 'Started with PHP, dreaming of AI 🚀',<br>
+};<br>
+
+<h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px" height="20px"> Skills & Technologies </h2> <div align="center"> <!-- Languages --> <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" /> <!-- Frontend --> <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,github,linux" /> <!-- AI/ML (Learning Path) --> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /> </div>
+<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px"> GitHub Analytics </h2> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanshre-sandip&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sanshre-sandip&theme=tokyonight&hide_border=true&background=00000000" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanshre-sandip&theme=tokyo-night&hide_border=true&bg_color=00000000" /> </p> <p align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanshre-sandip&theme=tokyonight" /> </p> <p align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanshre-sandip&theme=tokyonight" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanshre-sandip&theme=tokyonight" /> </p>
+<h2 align="left"> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px"> Achievements </h2> <div align="left">
+
+🏆 Building real-world projects
+🚀 RoomFinder • Sestro • Sanshre
+📚 Consistent learner & open-source contributor
+
+</div> ```
