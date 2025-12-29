@@ -47,7 +47,17 @@ const sandip = {
 };<br>
 
 <h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px" height="20px"> Skills & Technologies </h2> <div align="center"> <!-- Languages --> <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" /> <!-- Frontend --> <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,github,linux" /> <!-- AI/ML (Learning Path) --> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /> </div>
-<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px"> GitHub Analytics </h2> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanshre-sandip&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sanshre-sandip&theme=tokyonight&hide_border=true&background=00000000" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanshre-sandip&theme=tokyo-night&hide_border=true&bg_color=00000000" /> </p> <p align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanshre-sandip&theme=tokyonight" /> </p> <p align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanshre-sandip&theme=tokyonight" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanshre-sandip&theme=tokyonight" /> </p>
+<h2 align="left">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
+  GitHub Analytics
+</h2>
+
+
+
+</p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanshre-sandip&theme=tokyo-night&hide_border=true&bg_color=00000000" /> </p> <p align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanshre-sandip&theme=tokyonight" /> </p> <p align="center"> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanshre-sandip&theme=tokyonight" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanshre-sandip&theme=tokyonight" /> </p>
+
+
+
 <h2 align="left"> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px"> Achievements </h2> <div align="left">
 
 🏆 Building real-world projects
