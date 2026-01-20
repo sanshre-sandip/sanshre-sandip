@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3A294F,100:8D68AA&height=120&section=header" />
+
 <div align="center">
   <h1>
     Hello! 
@@ -39,14 +41,38 @@ const sandip = {
   ],<br>
   tech: {<br>
     Frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind CSS'],<br>
-    Backend:  ['PHP', 'MySQL', 'Node.js (Basics)'],<br>
+    Backend:  ['PHP', 'MySQL', 'Node.js (Basics)', 'FastAPI'],<br>
+    Database: ['MySQL', 'Supabase'],<br>
     Tools:    ['Git', 'GitHub', 'Linux'],<br>
   },<br>
   education: 'Grade 12 Physical Science @ National School of Sciences (NSS)',<br>
-  funFact: 'Started with PHP, dreaming of AI 🚀',<br>
+  funFact: 'Started with PHP, now building APIs with FastAPI 🚀',<br>
 };<br>
 
-<h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px" height="20px"> Skills & Technologies </h2> <div align="center"> <!-- Languages --> <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" /> <!-- Frontend --> <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,github,linux" /> <!-- AI/ML (Learning Path) --> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /> </div>
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px" height="20px">
+  Skills & Technologies
+</h2>
+
+<div align="center">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+
+<!-- Backend & Database -->
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,supabase" />
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,linux" />
+
+<!-- AI/ML (Learning Path) -->
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+</div>
+
 <h2 align="left">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
   GitHub Analytics
@@ -58,10 +84,28 @@ const sandip = {
 
 
 
-<h2 align="left"> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px"> Achievements </h2> <div align="left">
+<h2 align="left">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px">
+  Achievements
+</h2>
+
+<div align="left">
+
+🏆 **Selected as Top 11 Teams** – AIDEA Hackathon  
+🇺🇸 Organized by **American Embassy Nepal**, **Dapper Studio House** & **Clock b Business**  
+🚀 Built an AI-driven solution with real-world impact  
+
+</div>
+
 
 🏆 Building real-world projects
 🚀 RoomFinder • Sestro • Sanshre
 📚 Consistent learner & open-source contributor
 
-</div> ```
+</div> 
+💡 Currently building scalable APIs using FastAPI + Supabase
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8D68AA,100:3A294F&height=120&section=footer" />
+
+
+```
+
