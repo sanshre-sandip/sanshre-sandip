@@ -41,26 +41,33 @@ const sandip = {
   ],<br>
   tech: {<br>
     Frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind CSS'],<br>
+    Mobile:   ['Dart', 'Flutter'],<br>
     Backend:  ['PHP', 'MySQL', 'Node.js (Basics)', 'FastAPI'],<br>
     Database: ['MySQL', 'Supabase'],<br>
     Tools:    ['Git', 'GitHub', 'Linux'],<br>
   },<br>
   education: 'Grade 12 Physical Science @ National School of Sciences (NSS)',<br>
-  funFact: 'Started with PHP, now building APIs with FastAPI 🚀',<br>
+  funFact: 'Started with PHP, now building APIs & Flutter apps 🚀',<br>
 };<br>
+
 
 <h2 align="left">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px" height="20px">
   Skills & Technologies
 </h2>
 
+<p align="center"><i>Web • Mobile • Backend • AI (Learning)</i></p>
+
+
 <div align="center">
 
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,dart" />
+
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,flutter" />
+
 
 <!-- Backend & Database -->
 <img src="https://skillicons.dev/icons?i=fastapi,mysql,supabase" />
