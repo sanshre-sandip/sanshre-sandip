@@ -76,7 +76,7 @@ const sandip = {
 <img src="https://skillicons.dev/icons?i=git,github,linux" />
 
 <!-- AI/ML (Learning Path) -->
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 
 </div>
 
