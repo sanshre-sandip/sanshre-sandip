@@ -81,11 +81,3 @@ const sandip = {
 💡 Currently building scalable APIs using FastAPI + Supabase
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8D68AA,100:3A294F&height=120&section=footer" />
 
-
-
-
-  const shouldShowStatic = !animated || animationStyle === "none";
-  const resolvedCharset = resolveCharset(charset);
-  const effectiveCharset = inverted
-    ? resolvedCharset.split("").reverse().join("")
-    : resolve 
