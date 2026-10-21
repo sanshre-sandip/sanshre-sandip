@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
     <br>I'm <strong>Sandip Shrestha</strong>
   </h1>
-  <p><i>Web Developer | Future AI/ML Engineer | Student @ NSS</i></p>
+  <p><i>Web Developer | Future AI/ML Engineer | Student @ PU</i></p>
   <a href="#">
     <img 
       src="https://img.shields.io/badge/LinkedIn-LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=white" 
