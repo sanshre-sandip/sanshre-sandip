@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3A294F,100:8D68AA&height=120&section=header" />
 <div align="center">
+  <img src="./image.jpg" width="320" alt="Astronaut engineer working inside a spacecraft" />
+  <p><i>"The future is built by curious minds who turn complex ideas into working reality."</i></p>
   <h1>
     Hello! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
